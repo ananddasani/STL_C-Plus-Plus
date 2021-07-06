@@ -19,6 +19,40 @@ In Majority, new programmer stuck at one topic due to lack of practice question 
 
 To Help out the new programmers more precisely self-taught programmers in learning STL, And kickStarting their Competitive Programming Journey.
 
+---
+
+## Step-by-Step Learning 👀
+
+### Sequence Containers
+1. vector
+2. list
+3. deque
+4. arrays
+5. forward_list
+
+### Container Adaptors 
+1. queue
+2. priority_queue
+3. stack
+
+### Associative Containers 
+1. set
+2. multiset
+3. map
+4. multimap
+
+### Utility Library
+1. pair
+
+### Algorithm
+1. Sorting
+2. Searching
+3. Important STL Algorithms
+4. Useful Array algorithms
+5. Partition Operations
+
+---
+
 ## Technology Stack 🛠️
 
 - **Coding Languages**: C++
@@ -37,6 +71,17 @@ To Help out the new programmers more precisely self-taught programmers in learni
 
 </tr>
 </table>
+
+---
+
+## References:
+
+http://en.cppreference.com/w/cpp
+
+http://www.cplusplus.com/reference/stl/
+
+http://cs.stmarys.ca/~porter/csc/ref/stl/headers.html
+
 
 ---
 
